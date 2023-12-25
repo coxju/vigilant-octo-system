@@ -7,8 +7,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 
 [Lightroom]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
-arch = "arm64-v8a + x86_64"
+uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 
 [YouTube]
 enabled = false
