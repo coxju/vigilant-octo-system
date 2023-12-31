@@ -73,3 +73,9 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 [IconPackStudio]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+
+[Sync]
+uptodown-dlurl = "https://sync-for-reddit.en.uptodown.com/android"
+
+[Infinityforreddit]
+uptodown-dlurl = "https://infinity-for-reddit.en.uptodown.com/android"
